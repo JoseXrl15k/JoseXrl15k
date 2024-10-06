@@ -71,12 +71,12 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alba070503&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Alba070503" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseXrl15k&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="JoseXrl15k" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alba070503&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Alba070503" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alba070503&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="JoseXrl15k" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
